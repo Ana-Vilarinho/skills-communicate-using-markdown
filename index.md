@@ -9,3 +9,7 @@ Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.gi
 ``` javascript
 var myVar = "Hello, world!";
 ```
+```javascript
+function sayHello() {
+    console.log("Hello, world!");
+}
