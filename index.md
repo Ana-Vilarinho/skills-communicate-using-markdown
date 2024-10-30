@@ -19,6 +19,6 @@ function sayHello() {
 - [x] This item is complete
 - [ ] This item is not complete
 
-- [ ] Ativar as Páginas do GitHub
-- [ ] Descrever meu portfólio
-- [ ] Apresentar-me ao mundo
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
