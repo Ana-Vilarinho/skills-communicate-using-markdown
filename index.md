@@ -13,3 +13,12 @@ var myVar = "Hello, world!";
 function sayHello() {
     console.log("Hello, world!");
 }
+
+
+- [x] List syntax is required
+- [x] This item is complete
+- [ ] This item is not complete
+
+- [ ] Ativar as Páginas do GitHub
+- [ ] Descrever meu portfólio
+- [ ] Apresentar-me ao mundo
